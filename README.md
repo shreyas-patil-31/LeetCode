@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/shreyas-patil-31/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shreyas-patil-31/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1672-richest-customer-wealth](https://github.com/shreyas-patil-31/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shreyas-patil-31/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
 |  |
