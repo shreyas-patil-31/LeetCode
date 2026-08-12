@@ -49,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1678-goal-parser-interpretation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyas-patil-31/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
