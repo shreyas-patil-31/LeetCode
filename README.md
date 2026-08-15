@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shreyas-patil-31/LeetCode/tree/master/0058-length-of-last-word) |
 | [1678-goal-parser-interpretation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyas-patil-31/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
