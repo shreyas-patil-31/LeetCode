@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyas-patil-31/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
