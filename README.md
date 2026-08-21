@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/shreyas-patil-31/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/shreyas-patil-31/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shreyas-patil-31/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/shreyas-patil-31/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
