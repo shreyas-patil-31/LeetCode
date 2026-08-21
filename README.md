@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/shreyas-patil-31/LeetCode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/shreyas-patil-31/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
