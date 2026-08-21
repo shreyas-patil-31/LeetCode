@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/shreyas-patil-31/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3492-maximum-containers-on-a-ship](https://github.com/shreyas-patil-31/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/shreyas-patil-31/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
