@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/shreyas-patil-31/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shreyas-patil-31/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/shreyas-patil-31/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3285-find-indices-of-stable-mountains](https://github.com/shreyas-patil-31/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
