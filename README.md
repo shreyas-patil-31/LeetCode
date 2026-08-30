@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/shreyas-patil-31/LeetCode/tree/master/1952-three-divisors) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/shreyas-patil-31/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/shreyas-patil-31/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shreyas-patil-31/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [2169-count-operations-to-obtain-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3701-compute-alternating-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
