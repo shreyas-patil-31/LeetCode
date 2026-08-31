@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyas-patil-31/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/shreyas-patil-31/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shreyas-patil-31/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/shreyas-patil-31/LeetCode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
 | ------- |
