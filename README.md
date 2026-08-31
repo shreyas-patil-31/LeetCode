@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/shreyas-patil-31/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreyas-patil-31/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3895-count-digit-appearances](https://github.com/shreyas-patil-31/LeetCode/tree/master/3895-count-digit-appearances) |
+| [3959-check-good-integer](https://github.com/shreyas-patil-31/LeetCode/tree/master/3959-check-good-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3701-compute-alternating-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3959-check-good-integer](https://github.com/shreyas-patil-31/LeetCode/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
