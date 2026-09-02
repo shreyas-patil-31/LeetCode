@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/shreyas-patil-31/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/shreyas-patil-31/LeetCode/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
