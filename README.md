@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyas-patil-31/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shreyas-patil-31/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3731-find-missing-elements) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3731-find-missing-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3731-find-missing-elements) |
 ## Graph Theory
