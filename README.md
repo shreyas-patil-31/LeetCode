@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/shreyas-patil-31/LeetCode/tree/master/3668-restore-finishing-order) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 ## Divide and Conquer
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1534-count-good-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/1534-count-good-triplets) |
 | [1952-three-divisors](https://github.com/shreyas-patil-31/LeetCode/tree/master/1952-three-divisors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
