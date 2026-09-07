@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/shreyas-patil-31/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shreyas-patil-31/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/shreyas-patil-31/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shreyas-patil-31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shreyas-patil-31/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3959-check-good-integer](https://github.com/shreyas-patil-31/LeetCode/tree/master/3959-check-good-integer) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/0509-fibonacci-number) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/shreyas-patil-31/LeetCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Recursion
 |  |
 | ------- |
