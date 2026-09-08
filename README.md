@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/shreyas-patil-31/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1773-count-items-matching-a-rule](https://github.com/shreyas-patil-31/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shreyas-patil-31/LeetCode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/shreyas-patil-31/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1678-goal-parser-interpretation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/shreyas-patil-31/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/shreyas-patil-31/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3110-score-of-a-string) |
