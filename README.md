@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreyas-patil-31/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shreyas-patil-31/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shreyas-patil-31/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Counting Sort
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/shreyas-patil-31/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3701-compute-alternating-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sliding Window
 |  |
