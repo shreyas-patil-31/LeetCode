@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shreyas-patil-31/LeetCode/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/shreyas-patil-31/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shreyas-patil-31/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
