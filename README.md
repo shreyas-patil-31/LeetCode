@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/shreyas-patil-31/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyas-patil-31/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/shreyas-patil-31/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyas-patil-31/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/shreyas-patil-31/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
+| [3498-reverse-degree-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/shreyas-patil-31/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/shreyas-patil-31/LeetCode/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/shreyas-patil-31/LeetCode/tree/master/3959-check-good-integer) |
