@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shreyas-patil-31/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shreyas-patil-31/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/shreyas-patil-31/LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/shreyas-patil-31/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/shreyas-patil-31/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/shreyas-patil-31/LeetCode/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0832-flipping-an-image](https://github.com/shreyas-patil-31/LeetCode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/shreyas-patil-31/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyas-patil-31/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyas-patil-31/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
