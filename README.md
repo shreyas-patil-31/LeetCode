@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shreyas-patil-31/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/shreyas-patil-31/LeetCode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shreyas-patil-31/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shreyas-patil-31/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/shreyas-patil-31/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/shreyas-patil-31/LeetCode/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/shreyas-patil-31/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shreyas-patil-31/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shreyas-patil-31/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 ## String
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/shreyas-patil-31/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/shreyas-patil-31/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shreyas-patil-31/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shreyas-patil-31/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shreyas-patil-31/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3894-traffic-signal-color](https://github.com/shreyas-patil-31/LeetCode/tree/master/3894-traffic-signal-color) |
