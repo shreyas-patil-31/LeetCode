@@ -1,18 +1,13 @@
 class Solution:
     def rearrangeArray(self, nums: list[int]) -> list[int]:
-        x = []
-        y = []
-        ans =[]
+        ans = [0]*len(nums)
+        p = 0
+        q = 1
         for i in nums:
             if i>0:
-                x.append(i)
+                ans[p] = i
+                p += 2
             else:
-                y.append(i)
-        i = 0
-        j = 0
-        while i<len(x) and j<len(y):
-            ans.append(x[i])
-            ans.append(y[j])
-            i += 1
-            j += 1
+                ans[q] = i
+                q += 2
         return ans
