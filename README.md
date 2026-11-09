@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/shreyas-patil-31/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/shreyas-patil-31/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shreyas-patil-31/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3978-unique-middle-element](https://github.com/shreyas-patil-31/LeetCode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shreyas-patil-31/LeetCode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/shreyas-patil-31/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/shreyas-patil-31/LeetCode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3978-unique-middle-element](https://github.com/shreyas-patil-31/LeetCode/tree/master/3978-unique-middle-element) |
 ## String
 |  |
 | ------- |
